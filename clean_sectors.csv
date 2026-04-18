@@ -1,0 +1,313 @@
+Quarter,Sex,Sector,Employment
+2022 Q1,Female,Accommodation & Food,95.4
+2022 Q1,Male,Accommodation & Food,67.9
+2022 Q1,Female,Admin & Support,44.0
+2022 Q1,Male,Admin & Support,59.7
+2022 Q1,Female,Agriculture,15.7
+2022 Q1,Male,Agriculture,90.6
+2022 Q1,Female,Construction,12.8
+2022 Q1,Male,Construction,150.2
+2022 Q1,Female,Education,159.3
+2022 Q1,Male,Education,57.3
+2022 Q1,Female,Financial & Insurance,66.4
+2022 Q1,Male,Financial & Insurance,71.8
+2022 Q1,Female,Human Health & Social Work,261.6
+2022 Q1,Male,Human Health & Social Work,73.2
+2022 Q1,Female,Industry,99.7
+2022 Q1,Male,Industry,221.1
+2022 Q1,Female,Information & Communication,51.2
+2022 Q1,Male,Information & Communication,117.8
+2022 Q1,Female,Professional & Scientific,79.3
+2022 Q1,Male,Professional & Scientific,86.6
+2022 Q1,Female,Public Admin & Defence,74.9
+2022 Q1,Male,Public Admin & Defence,62.8
+2022 Q1,Female,Transport & Storage,21.6
+2022 Q1,Male,Transport & Storage,93.5
+2022 Q1,Female,Wholesale & Retail,149.8
+2022 Q1,Male,Wholesale & Retail,156.6
+2022 Q2,Female,Accommodation & Food,95.3
+2022 Q2,Male,Accommodation & Food,73.5
+2022 Q2,Female,Admin & Support,45.4
+2022 Q2,Male,Admin & Support,61.9
+2022 Q2,Female,Agriculture,14.8
+2022 Q2,Male,Agriculture,93.5
+2022 Q2,Female,Construction,16.1
+2022 Q2,Male,Construction,154.9
+2022 Q2,Female,Education,162.2
+2022 Q2,Male,Education,58.5
+2022 Q2,Female,Financial & Insurance,64.5
+2022 Q2,Male,Financial & Insurance,68.1
+2022 Q2,Female,Human Health & Social Work,266.3
+2022 Q2,Male,Human Health & Social Work,74.0
+2022 Q2,Female,Industry,99.7
+2022 Q2,Male,Industry,225.9
+2022 Q2,Female,Information & Communication,51.7
+2022 Q2,Male,Information & Communication,117.9
+2022 Q2,Female,Professional & Scientific,77.0
+2022 Q2,Male,Professional & Scientific,92.7
+2022 Q2,Female,Public Admin & Defence,69.4
+2022 Q2,Male,Public Admin & Defence,60.7
+2022 Q2,Female,Transport & Storage,22.0
+2022 Q2,Male,Transport & Storage,90.5
+2022 Q2,Female,Wholesale & Retail,157.9
+2022 Q2,Male,Wholesale & Retail,167.6
+2022 Q3,Female,Accommodation & Food,93.1
+2022 Q3,Male,Accommodation & Food,78.7
+2022 Q3,Female,Admin & Support,45.2
+2022 Q3,Male,Admin & Support,66.9
+2022 Q3,Female,Agriculture,12.1
+2022 Q3,Male,Agriculture,85.0
+2022 Q3,Female,Construction,16.2
+2022 Q3,Male,Construction,157.0
+2022 Q3,Female,Education,158.2
+2022 Q3,Male,Education,53.2
+2022 Q3,Female,Financial & Insurance,59.0
+2022 Q3,Male,Financial & Insurance,70.4
+2022 Q3,Female,Human Health & Social Work,272.7
+2022 Q3,Male,Human Health & Social Work,73.5
+2022 Q3,Female,Industry,103.4
+2022 Q3,Male,Industry,232.0
+2022 Q3,Female,Information & Communication,49.8
+2022 Q3,Male,Information & Communication,114.6
+2022 Q3,Female,Professional & Scientific,68.8
+2022 Q3,Male,Professional & Scientific,100.1
+2022 Q3,Female,Public Admin & Defence,69.9
+2022 Q3,Male,Public Admin & Defence,65.5
+2022 Q3,Female,Transport & Storage,21.3
+2022 Q3,Male,Transport & Storage,89.6
+2022 Q3,Female,Wholesale & Retail,154.1
+2022 Q3,Male,Wholesale & Retail,165.2
+2022 Q4,Female,Accommodation & Food,85.2
+2022 Q4,Male,Accommodation & Food,86.1
+2022 Q4,Female,Admin & Support,50.6
+2022 Q4,Male,Admin & Support,60.2
+2022 Q4,Female,Agriculture,17.6
+2022 Q4,Male,Agriculture,86.0
+2022 Q4,Female,Construction,17.1
+2022 Q4,Male,Construction,148.3
+2022 Q4,Female,Education,155.2
+2022 Q4,Male,Education,54.2
+2022 Q4,Female,Financial & Insurance,64.5
+2022 Q4,Male,Financial & Insurance,71.2
+2022 Q4,Female,Human Health & Social Work,269.3
+2022 Q4,Male,Human Health & Social Work,74.5
+2022 Q4,Female,Industry,97.7
+2022 Q4,Male,Industry,229.2
+2022 Q4,Female,Information & Communication,57.5
+2022 Q4,Male,Information & Communication,110.7
+2022 Q4,Female,Professional & Scientific,72.2
+2022 Q4,Male,Professional & Scientific,101.5
+2022 Q4,Female,Public Admin & Defence,72.2
+2022 Q4,Male,Public Admin & Defence,69.0
+2022 Q4,Female,Transport & Storage,24.7
+2022 Q4,Male,Transport & Storage,90.3
+2022 Q4,Female,Wholesale & Retail,160.7
+2022 Q4,Male,Wholesale & Retail,163.6
+2023 Q1,Female,Accommodation & Food,93.1
+2023 Q1,Male,Accommodation & Food,79.9
+2023 Q1,Female,Admin & Support,53.1
+2023 Q1,Male,Admin & Support,61.0
+2023 Q1,Female,Agriculture,16.4
+2023 Q1,Male,Agriculture,85.5
+2023 Q1,Female,Construction,13.1
+2023 Q1,Male,Construction,149.7
+2023 Q1,Female,Education,157.3
+2023 Q1,Male,Education,56.8
+2023 Q1,Female,Financial & Insurance,61.6
+2023 Q1,Male,Financial & Insurance,73.4
+2023 Q1,Female,Human Health & Social Work,283.4
+2023 Q1,Male,Human Health & Social Work,72.7
+2023 Q1,Female,Industry,103.5
+2023 Q1,Male,Industry,231.2
+2023 Q1,Female,Information & Communication,54.4
+2023 Q1,Male,Information & Communication,117.9
+2023 Q1,Female,Professional & Scientific,74.0
+2023 Q1,Male,Professional & Scientific,96.4
+2023 Q1,Female,Public Admin & Defence,73.9
+2023 Q1,Male,Public Admin & Defence,68.8
+2023 Q1,Female,Transport & Storage,18.4
+2023 Q1,Male,Transport & Storage,94.4
+2023 Q1,Female,Wholesale & Retail,163.1
+2023 Q1,Male,Wholesale & Retail,171.2
+2023 Q2,Female,Accommodation & Food,97.8
+2023 Q2,Male,Accommodation & Food,80.5
+2023 Q2,Female,Admin & Support,47.8
+2023 Q2,Male,Admin & Support,64.5
+2023 Q2,Female,Agriculture,15.3
+2023 Q2,Male,Agriculture,86.6
+2023 Q2,Female,Construction,15.4
+2023 Q2,Male,Construction,157.1
+2023 Q2,Female,Education,163.5
+2023 Q2,Male,Education,57.9
+2023 Q2,Female,Financial & Insurance,68.8
+2023 Q2,Male,Financial & Insurance,70.2
+2023 Q2,Female,Human Health & Social Work,290.1
+2023 Q2,Male,Human Health & Social Work,68.0
+2023 Q2,Female,Industry,103.6
+2023 Q2,Male,Industry,217.1
+2023 Q2,Female,Information & Communication,56.1
+2023 Q2,Male,Information & Communication,119.6
+2023 Q2,Female,Professional & Scientific,79.5
+2023 Q2,Male,Professional & Scientific,98.7
+2023 Q2,Female,Public Admin & Defence,75.6
+2023 Q2,Male,Public Admin & Defence,69.1
+2023 Q2,Female,Transport & Storage,20.6
+2023 Q2,Male,Transport & Storage,96.3
+2023 Q2,Female,Wholesale & Retail,167.3
+2023 Q2,Male,Wholesale & Retail,172.1
+2023 Q3,Female,Accommodation & Food,100.4
+2023 Q3,Male,Accommodation & Food,82.7
+2023 Q3,Female,Admin & Support,47.2
+2023 Q3,Male,Admin & Support,64.5
+2023 Q3,Female,Agriculture,17.4
+2023 Q3,Male,Agriculture,97.3
+2023 Q3,Female,Construction,13.2
+2023 Q3,Male,Construction,156.2
+2023 Q3,Female,Education,163.9
+2023 Q3,Male,Education,58.9
+2023 Q3,Female,Financial & Insurance,65.3
+2023 Q3,Male,Financial & Insurance,69.4
+2023 Q3,Female,Human Health & Social Work,282.9
+2023 Q3,Male,Human Health & Social Work,79.8
+2023 Q3,Female,Industry,111.1
+2023 Q3,Male,Industry,214.2
+2023 Q3,Female,Information & Communication,55.7
+2023 Q3,Male,Information & Communication,123.8
+2023 Q3,Female,Professional & Scientific,81.7
+2023 Q3,Male,Professional & Scientific,99.1
+2023 Q3,Female,Public Admin & Defence,68.9
+2023 Q3,Male,Public Admin & Defence,68.3
+2023 Q3,Female,Transport & Storage,21.3
+2023 Q3,Male,Transport & Storage,95.2
+2023 Q3,Female,Wholesale & Retail,164.8
+2023 Q3,Male,Wholesale & Retail,159.4
+2023 Q4,Female,Accommodation & Food,94.1
+2023 Q4,Male,Accommodation & Food,89.0
+2023 Q4,Female,Admin & Support,47.7
+2023 Q4,Male,Admin & Support,58.8
+2023 Q4,Female,Agriculture,15.4
+2023 Q4,Male,Agriculture,97.5
+2023 Q4,Female,Construction,11.4
+2023 Q4,Male,Construction,149.9
+2023 Q4,Female,Education,174.5
+2023 Q4,Male,Education,60.5
+2023 Q4,Female,Financial & Insurance,66.6
+2023 Q4,Male,Financial & Insurance,69.1
+2023 Q4,Female,Human Health & Social Work,283.6
+2023 Q4,Male,Human Health & Social Work,81.7
+2023 Q4,Female,Industry,107.6
+2023 Q4,Male,Industry,212.9
+2023 Q4,Female,Information & Communication,47.2
+2023 Q4,Male,Information & Communication,121.7
+2023 Q4,Female,Professional & Scientific,83.3
+2023 Q4,Male,Professional & Scientific,103.2
+2023 Q4,Female,Public Admin & Defence,75.6
+2023 Q4,Male,Public Admin & Defence,67.0
+2023 Q4,Female,Transport & Storage,20.0
+2023 Q4,Male,Transport & Storage,89.6
+2023 Q4,Female,Wholesale & Retail,166.7
+2023 Q4,Male,Wholesale & Retail,177.2
+2024 Q1,Female,Accommodation & Food,90.4
+2024 Q1,Male,Accommodation & Food,84.1
+2024 Q1,Female,Admin & Support,49.8
+2024 Q1,Male,Admin & Support,61.3
+2024 Q1,Female,Agriculture,14.0
+2024 Q1,Male,Agriculture,94.5
+2024 Q1,Female,Construction,11.8
+2024 Q1,Male,Construction,159.9
+2024 Q1,Female,Education,169.4
+2024 Q1,Male,Education,61.6
+2024 Q1,Female,Financial & Insurance,70.4
+2024 Q1,Male,Financial & Insurance,66.0
+2024 Q1,Female,Human Health & Social Work,277.2
+2024 Q1,Male,Human Health & Social Work,78.2
+2024 Q1,Female,Industry,103.8
+2024 Q1,Male,Industry,219.6
+2024 Q1,Female,Information & Communication,57.7
+2024 Q1,Male,Information & Communication,117.7
+2024 Q1,Female,Professional & Scientific,88.4
+2024 Q1,Male,Professional & Scientific,108.2
+2024 Q1,Female,Public Admin & Defence,82.7
+2024 Q1,Male,Public Admin & Defence,61.7
+2024 Q1,Female,Transport & Storage,18.5
+2024 Q1,Male,Transport & Storage,92.6
+2024 Q1,Female,Wholesale & Retail,161.1
+2024 Q1,Male,Wholesale & Retail,167.9
+2024 Q2,Female,Accommodation & Food,100.8
+2024 Q2,Male,Accommodation & Food,83.4
+2024 Q2,Female,Admin & Support,51.0
+2024 Q2,Male,Admin & Support,61.2
+2024 Q2,Female,Agriculture,14.0
+2024 Q2,Male,Agriculture,90.7
+2024 Q2,Female,Construction,13.7
+2024 Q2,Male,Construction,147.1
+2024 Q2,Female,Education,170.1
+2024 Q2,Male,Education,63.1
+2024 Q2,Female,Financial & Insurance,66.9
+2024 Q2,Male,Financial & Insurance,68.1
+2024 Q2,Female,Human Health & Social Work,294.5
+2024 Q2,Male,Human Health & Social Work,82.1
+2024 Q2,Female,Industry,115.8
+2024 Q2,Male,Industry,226.0
+2024 Q2,Female,Information & Communication,56.2
+2024 Q2,Male,Information & Communication,131.0
+2024 Q2,Female,Professional & Scientific,89.8
+2024 Q2,Male,Professional & Scientific,111.0
+2024 Q2,Female,Public Admin & Defence,82.1
+2024 Q2,Male,Public Admin & Defence,70.1
+2024 Q2,Female,Transport & Storage,22.9
+2024 Q2,Male,Transport & Storage,97.2
+2024 Q2,Female,Wholesale & Retail,155.3
+2024 Q2,Male,Wholesale & Retail,159.3
+2024 Q3,Female,Accommodation & Food,109.0
+2024 Q3,Male,Accommodation & Food,90.9
+2024 Q3,Female,Admin & Support,44.8
+2024 Q3,Male,Admin & Support,58.6
+2024 Q3,Female,Agriculture,16.4
+2024 Q3,Male,Agriculture,96.5
+2024 Q3,Female,Construction,16.1
+2024 Q3,Male,Construction,160.1
+2024 Q3,Female,Education,166.4
+2024 Q3,Male,Education,61.7
+2024 Q3,Female,Financial & Insurance,68.4
+2024 Q3,Male,Financial & Insurance,68.7
+2024 Q3,Female,Human Health & Social Work,290.2
+2024 Q3,Male,Human Health & Social Work,89.0
+2024 Q3,Female,Industry,113.6
+2024 Q3,Male,Industry,229.4
+2024 Q3,Female,Information & Communication,62.4
+2024 Q3,Male,Information & Communication,126.2
+2024 Q3,Female,Professional & Scientific,93.7
+2024 Q3,Male,Professional & Scientific,108.5
+2024 Q3,Female,Public Admin & Defence,82.8
+2024 Q3,Male,Public Admin & Defence,70.7
+2024 Q3,Female,Transport & Storage,24.8
+2024 Q3,Male,Transport & Storage,93.6
+2024 Q3,Female,Wholesale & Retail,160.5
+2024 Q3,Male,Wholesale & Retail,163.0
+2024 Q4,Female,Accommodation & Food,96.1
+2024 Q4,Male,Accommodation & Food,88.3
+2024 Q4,Female,Admin & Support,40.9
+2024 Q4,Male,Admin & Support,59.2
+2024 Q4,Female,Agriculture,16.5
+2024 Q4,Male,Agriculture,91.3
+2024 Q4,Female,Construction,18.0
+2024 Q4,Male,Construction,158.0
+2024 Q4,Female,Education,176.6
+2024 Q4,Male,Education,63.2
+2024 Q4,Female,Financial & Insurance,71.0
+2024 Q4,Male,Financial & Insurance,70.5
+2024 Q4,Female,Human Health & Social Work,292.9
+2024 Q4,Male,Human Health & Social Work,89.6
+2024 Q4,Female,Industry,106.6
+2024 Q4,Male,Industry,225.8
+2024 Q4,Female,Information & Communication,63.5
+2024 Q4,Male,Information & Communication,119.4
+2024 Q4,Female,Professional & Scientific,93.7
+2024 Q4,Male,Professional & Scientific,104.8
+2024 Q4,Female,Public Admin & Defence,81.8
+2024 Q4,Male,Public Admin & Defence,69.6
+2024 Q4,Female,Transport & Storage,23.2
+2024 Q4,Male,Transport & Storage,98.6
+2024 Q4,Female,Wholesale & Retail,159.7
+2024 Q4,Male,Wholesale & Retail,166.8
